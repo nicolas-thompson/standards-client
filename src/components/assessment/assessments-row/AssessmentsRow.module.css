@@ -1,0 +1,19 @@
+.assessment-overview-row {
+  margin-top: 5rem;
+}
+
+.view-assessment {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+}
+
+.view-assessment-link {
+  color: black;
+  text-decoration: none;
+  font-size: 1.5rem;
+  margin-right: 1rem;
+  display: flex;
+  align-items: baseline;
+}
+

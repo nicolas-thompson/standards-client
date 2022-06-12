@@ -1,0 +1,15 @@
+.policy-selection {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 4px solid #e6e6e6;
+}
+
+.assessment-complete-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}

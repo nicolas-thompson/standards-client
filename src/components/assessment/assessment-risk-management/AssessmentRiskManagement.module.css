@@ -1,0 +1,17 @@
+.policy-selection {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 4px solid #e6e6e6;
+}
+
+.policy-selection-form {
+  padding: 2rem 0;
+  border-bottom: 2px solid #e6e6e6;
+}
+
+.assessment-risk-management-footer {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}

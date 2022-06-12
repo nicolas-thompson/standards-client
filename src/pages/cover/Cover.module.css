@@ -1,0 +1,19 @@
+.vertical-height {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  position:absolute;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  left:0px;
+  background: linear-gradient(300.84deg, #102C3E 43.28%, #0E2333 68.36%);
+  background-size: cover;
+}
+
+.vertical-height a {
+  color: aliceblue;
+  text-decoration: none;
+}

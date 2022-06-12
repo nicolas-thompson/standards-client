@@ -1,0 +1,29 @@
+.risk-management-tasks {
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.risk-tasks-title {
+  border-bottom: 1px solid #e6e6e6;
+  padding: 2rem 0;
+}
+
+.new-assessment {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+}
+
+.assessment-overview-row {
+  margin-top: 5rem;
+}
+
+.view-assessment {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+  padding: 1rem 0; 
+}
+
+.task-row {
+ padding: 1rem 0; 
+}

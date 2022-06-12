@@ -1,0 +1,11 @@
+.view-selection {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 4px solid #e6e6e6;
+}
+
+.table-row {
+  padding: 1rem 0;
+}
